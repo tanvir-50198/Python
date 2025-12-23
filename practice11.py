@@ -192,4 +192,3 @@ def add(a, b):
     return a + b
 
 print("Sum of 10 and 5 is:", add(10, 5))
-
